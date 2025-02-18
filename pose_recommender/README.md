@@ -1,4 +1,4 @@
-# 🚀 Building an AI-Powered Application with LangChain, Java, Spring Boot, and Vector Databases  
+# Building an AI-Powered Application with LangChain, Java, Spring Boot, and Vector Databases  
 
 This project demonstrates how to integrate AI capabilities into applications using **LangChain, Java, and Spring Boot**, while leveraging **vector databases** for efficient data retrieval.  
 
